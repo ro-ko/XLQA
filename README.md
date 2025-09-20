@@ -45,7 +45,7 @@ Open an issue or pull request!
 
 ## 📬 Contact
 
-* Email: [your\_ro_keonwoo@korea.ac.kr](mailto:ro_keonwoo@korea.ac.kr)
+* Email: [ro_keonwoo@korea.ac.kr](mailto:ro_keonwoo@korea.ac.kr)
 * Issues: [Open a GitHub issue](https://github.com/ro-ko/xlqa/issues)
 
 ---
