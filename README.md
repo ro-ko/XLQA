@@ -7,12 +7,14 @@
 ---
 
 ## 🔍 Overview
-
+ 
 **XLQA** is a benchmark for evaluating open-domain QA systems in **multilingual** and **locale-aware** settings.
+
+The dataset and code are coming soon!
 
 Key features:
 
-- 🌍 Covers 20+ languages and locales
+- 🌍 Covers 8+ languages and locales
 - 📌 Emphasizes culturally and geographically grounded knowledge
 - ❌ Avoids simple translation-based QA
 
